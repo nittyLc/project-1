@@ -8,11 +8,12 @@ body{
     text-align:left;
     padding: 10px;
 }
-header img{
-    height: 500px;
-    width: 95%;
-}
+
 .asset{
     display: flex;
     justify-content: space-between;
+}
+.asset img{
+    height: 500px;
+    width: 95%;
 }
